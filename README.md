@@ -1,10 +1,10 @@
 # Joystick en Arduino
+## Por Fernanda Monter y Mauricio de Ariño
+
 ## Tabla de contenidos 
 * [Información General](#información-general)
 * [Desarrollo](#desarrollo)
 * [Setup](#setup)
-* [Uso](#uso)
-* [Contacto](#contacto)
 ## Información General
 El proyecto consiste en obtener gráficamente los valores máximos y mínimos de traslación de un joystick, además de su valor promedio en reposo. Un joystick es un arreglo de 2 potenciómetros que permite conocer la posición de la palanca en un eje X y un eje Y. Para leer estos valores se conectaron los canales analógicos de los potenciómetros del joystick a un Arduino MEGA y se escribió un programa en el software de Arduino que recibe los valores X y Y y los traduce de un intervalo entre 0 y 1023 a un intervalo entre -1 y 1 para desplegarlos gráficamente.
 ## Desarrollo
@@ -22,6 +22,3 @@ Por último, se tradujeron los valores del joystick a un intervalo de -1 a 1 y s
 
 ![Monitor serial](https://github.com/fmonter11/Joystick-en-Arduino/blob/main/Imagenes/Monitor.png)
 ## Setup
-
-## Contacto
-Elaborado por Fernanda Monter y Mauricio de Ariño
