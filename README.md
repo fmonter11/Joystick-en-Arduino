@@ -18,8 +18,9 @@ Después se realizó una práctica física que consistió en mover la palanca de
 | **Valor: 0**   | ![Joystick](https://github.com/fmonter11/Joystick-en-Arduino/blob/main/Imagenes/JoyTable.png) |**Eje: X   Valor: 1023** |
 |     | **X: 498 Y: 517**    |   |
 
-Por último, se desplegó el movimiento de la palanca del joystick de forma gráfica a través de un intervalo de tiempo
-## Setup
+Por último, se tradujeron los valores del joystick a un intervalo de -1 a 1 y se desplegó el movimiento de la palanca de forma gráfica a través de un intervalo de tiempo.
 ![Monitor serial](https://github.com/fmonter11/Joystick-en-Arduino/blob/main/Imagenes/Monitor.png)
+## Setup
+
 ## Contacto
 Elaborado por Fernanda Monter y Mauricio de Ariño
