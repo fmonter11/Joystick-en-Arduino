@@ -1,5 +1,5 @@
 # Joystick en Arduino
-## Por Fernanda Monter y Mauricio de Ariño
+Por Fernanda Monter y Mauricio de Ariño
 
 ## Tabla de contenidos 
 * [Información General](#información-general)
