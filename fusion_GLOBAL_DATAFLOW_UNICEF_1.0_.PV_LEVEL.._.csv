@@ -1,0 +1,72 @@
+Geographicarea,Indicator,Sex,TIME_PERIOD,OBS_VALUE,Unit multiplier,Unit of measure,Observation Status,Observation confidentaility,LOWER_BOUND,UPPER_BOUND,WGTD_SAMPL_SIZE,OBS_FOOTNOTE,SERIES_FOOTNOTE,DATA_SOURCE,SOURCE_LINK,CUSTODIAN,Time period activity related to when the data are collected,REF_PERIOD,COVERAGE_TIME,Current age
+Algeria,Poverty Level,Total,2017,Low,,Index,,,,,,,,,,,,,,Total
+Angola,Poverty Level,Total,2015,High,,Index,,,,,,,,,,,,,,Total
+Antigua and Barbuda,Poverty Level,Total,2005,Very_Low,,Index,,,,,,,,,,,,,,Total
+Argentina,Poverty Level,Total,2011,Low,,Index,,,,,,,,,,,,,,Total
+Belize,Poverty Level,Total,2006,High,,Index,,,,,,,,,,,,,,Total
+Benin,Poverty Level,Total,2014,High,,Index,,,,,,,,,,,,,,Total
+Bolivia (Plurinational State of),Poverty Level,Total,2009,High,,Index,,,,,,,,,,,,,,Total
+Botswana,Poverty Level,Total,2015,Very_High,,Index,,,,,,,,,,,,,,Total
+Brazil,Poverty Level,Total,2011,Low,,Index,,,,,,,,,,,,,,Total
+Burundi,Poverty Level,Total,2017,Very_High,,Index,,,,,,,,,,,,,,Total
+Cambodia,Poverty Level,Total,2018,Very_High,,Index,,,,,,,,,,,,,,Total
+Cameroon,Poverty Level,Total,2014,Very_High,,Index,,,,,,,,,,,,,,Total
+Chile,Poverty Level,Total,2011,Very_Low,,Index,,,,,,,,,,,,,,Total
+Colombia,Poverty Level,Total,2011,Low,,Index,,,,,,,,,,,,,,Total
+Comoros,Poverty Level,Total,2017,Very_High,,Index,,,,,,,,,,,,,,Total
+Costa Rica,Poverty Level,Total,2011,Very_Low,,Index,,,,,,,,,,,,,,Total
+Democratic Republic of the Congo,Poverty Level,Total,2014,Medium,,Index,,,,,,,,,,,,,,Total
+Djibouti,Poverty Level,Total,2009,Medium,,Index,,,,,,,,,,,,,,Total
+Dominican Republic,Poverty Level,Total,2011,Medium,,Index,,,,,,,,,,,,,,Total
+Ecuador,Poverty Level,Total,2011,Medium,,Index,,,,,,,,,,,,,,Total
+Egypt,Poverty Level,Total,2017,Low,,Index,,,,,,,,,,,,,,Total
+El Salvador,Poverty Level,Total,2010,High,,Index,,,,,,,,,,,,,,Total
+Eswatini,Poverty Level,Total,2014,Medium,,Index,,,,,,,,,,,,,,Total
+Ethiopia,Poverty Level,Total,2016,Very_High,,Index,,,,,,,,,,,,,,Total
+Grenada,Poverty Level,Total,2008,Low,,Index,,,,,,,,,,,,,,Total
+Guatemala,Poverty Level,Total,2006,High,,Index,,,,,,,,,,,,,,Total
+Guinea,Poverty Level,Total,2016,Medium,,Index,,,,,,,,,,,,,,Total
+Guyana,Poverty Level,Total,2006,High,,Index,,,,,,,,,,,,,,Total
+Honduras,Poverty Level,Total,2010,High,,Index,,,,,,,,,,,,,,Total
+Iraq,Poverty Level,Total,2017,Medium,,Index,,,,,,,,,,,,,,Total
+Jamaica,Poverty Level,Total,2005,Low,,Index,,,,,,,,,,,,,,Total
+Jordan,Poverty Level,Total,2017,Low,,Index,,,,,,,,,,,,,,Total
+Kenya,Poverty Level,Total,2017,Very_High,,Index,,,,,,,,,,,,,,Total
+Kyrgyzstan,Poverty Level,Total,2009,Medium,,Index,,,,,,,,,,,,,,Total
+Lao People's Democratic Republic,Poverty Level,Total,2006,High,,Index,,,,,,,,,,,,,,Total
+Lesotho,Poverty Level,Total,2014,High,,Index,,,,,,,,,,,,,,Total
+Malawi,Poverty Level,Total,2013,High,,Index,,,,,,,,,,,,,,Total
+Mali,Poverty Level,Total,2015,Medium,,Index,,,,,,,,,,,,,,Total
+Mauritania,Poverty Level,Total,2017,Very_High,,Index,,,,,,,,,,,,,,Total
+Mexico,Poverty Level,Total,2010,Low,,Index,,,,,,,,,,,,,,Total
+Mongolia,Poverty Level,Total,2006,High,,Index,,,,,,,,,,,,,,Total
+Morocco,Poverty Level,Total,2017,Medium,,Index,,,,,,,,,,,,,,Total
+Mozambique,Poverty Level,Total,2008,Medium,,Index,,,,,,,,,,,,,,Total
+Namibia,Poverty Level,Total,2013,Medium,,Index,,,,,,,,,,,,,,Total
+Nicaragua,Poverty Level,Total,2005,High,,Index,,,,,,,,,,,,,,Total
+Niger,Poverty Level,Total,2014,Very_Low,,Index,,,,,,,,,,,,,,Total
+Paraguay,Poverty Level,Total,2011,Medium,,Index,,,,,,,,,,,,,,Total
+Peru,Poverty Level,Total,2011,High,,Index,,,,,,,,,,,,,,Total
+Philippines,Poverty Level,Total,2006,Low,,Index,,,,,,,,,,,,,,Total
+Rwanda,Poverty Level,Total,2014,Low,,Index,,,,,,,,,,,,,,Total
+Saint Lucia,Poverty Level,Total,2005,Low,,Index,,,,,,,,,,,,,,Total
+Senegal,Poverty Level,Total,2009,Low,,Index,,,,,,,,,,,,,,Total
+Sierra Leone,Poverty Level,Total,2010,High,,Index,,,,,,,,,,,,,,Total
+Somalia,Poverty Level,Total,2016,Medium,,Index,,,,,,,,,,,,,,Total
+South Africa,Poverty Level,Total,2009,Medium,,Index,,,,,,,,,,,,,,Total
+State of Palestine,Poverty Level,Total,2017,Low,,Index,,,,,,,,,,,,,,Total
+Sudan,Poverty Level,Total,2017,Very_High,,Index,,,,,,,,,,,,,,Total
+Suriname,Poverty Level,Total,2006,Medium,,Index,,,,,,,,,,,,,,Total
+Thailand,Poverty Level,Total,2006,Very_Low,,Index,,,,,,,,,,,,,,Total
+Togo,Poverty Level,Total,2013,Low,,Index,,,,,,,,,,,,,,Total
+Trinidad and Tobago,Poverty Level,Total,2006,Low,,Index,,,,,,,,,,,,,,Total
+Tunisia,Poverty Level,Total,2012,Low,,Index,,,,,,,,,,,,,,Total
+Uganda,Poverty Level,Total,2011,Medium,,Index,,,,,,,,,,,,,,Total
+United Republic of Tanzania,Poverty Level,Total,2016,Very_High,,Index,,,,,,,,,,,,,,Total
+Uruguay,Poverty Level,Total,2011,Very_Low,,Index,,,,,,,,,,,,,,Total
+Vanuatu,Poverty Level,Total,2006,Low,,Index,,,,,,,,,,,,,,Total
+Venezuela (Bolivarian Republic of),Poverty Level,Total,2011,Low,,Index,,,,,,,,,,,,,,Total
+Viet Nam,Poverty Level,Total,2006,Low,,Index,,,,,,,,,,,,,,Total
+Yemen,Poverty Level,Total,2017,High,,Index,,,,,,,,,,,,,,Total
+Zambia,Poverty Level,Total,2018,Very_High,,Index,,,,,,,,,,,,,,Total
+Zimbabwe,Poverty Level,Total,2016,Very_High,,Index,,,,,,,,,,,,,,Total
