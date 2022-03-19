@@ -1,7 +1,4 @@
 # Joystick en Arduino
-## Información General
-Este proyecto consiste en analizar 2 índices diferentes en 6 diferentes países. Los países escogidos fueron Brasil, Japón, India, México, Sudáfrica y Uganda.
-El repositorio del proyecto consiste en un archivo de Python, el ReadMe, y una carpeta que contiene las tablas de Excel que el proyecto utiliza para hacer su análisis. 
 ## Tabla de contenidos 
 * [Información General](#información-general)
 * [Tecnologías usadas](#tecnologías-usadas)
@@ -10,7 +7,9 @@ El repositorio del proyecto consiste en un archivo de Python, el ReadMe, y una c
 * [Uso](#uso)
 * [Contacto](#contacto)
 ## Información General
+El proyecto consiste en obtener los valores máximos y mínimos de traslación de un joystick tanto gráficamente como en forma de tabla. Para leer estos valores se conectaron los canales analógicos del joystick a un Arduino MEGA y se tradujeron de un intervalo entre 0 y 1023 a un intervalo entre -1 y 1.
 ## Tecnologías usadas
+Se utilizó un ardu
 ## Características
 ## Setup
 ## Uso
