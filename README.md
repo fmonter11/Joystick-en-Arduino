@@ -1,11 +1,6 @@
 # Joystick en Arduino
 Por Fernanda Monter y Mauricio de Ariño
 
-## Tabla de contenidos 
-* [Setup del repositorio](#setup-del-repositorio)
-* [Información general](#información-general)
-* [Desarrollo](#desarrollo)
-
 ## Setup del repositorio
 En el repositorio en GitHub del proyecto pueden encontrar:
 - El archivo Practica_joystick.ino (código en Arduino para el joystick),
