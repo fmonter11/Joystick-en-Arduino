@@ -18,10 +18,11 @@ Para llevar a cabo la lectura correctamente se escribió un código que toma los
 
 Después se realizó un experimento físico que consistió en mover la palanca del joystick en diversas direcciones para obtener los valores de los ejes de traslación deseados, como puede observarse en la Tabla 1.
 
-|         |   Eje: Y  Valor: 0   |   |
+|         |   Eje Y:  Mínimo: 0   |   |
 | :-------------: |:-------------:| :-------------:|
-| **Valor: 0**   | ![Joystick](https://github.com/fmonter11/Joystick-en-Arduino/blob/main/Imagenes/JoyTable.png) |**Eje: X   Valor: 1023** |
-|     | **X: 498 Y: 517**    |   |
+| **Eje X: Mínimo: 0**   | ![Joystick](https://github.com/fmonter11/Joystick-en-Arduino/blob/main/Imagenes/JoyTable.png) |**Máximo: 1023** |
+|     | **Máximo: 1023       |   |
+|     | ** En reposo: X: 498, Y: 517**    |   |
 
 *Tabla 1. Valores obtenidos con el joystick analógico*
 
