@@ -13,8 +13,8 @@ Para llevar a cabo la lectura correctamente la conexión se basó en el diagrama
 
 |         |   Eje: Y  Valor: 0   |   |
 | :-------------: |:-------------:| :-------------:|
-| Valor: 0   | imagen |Eje: X   Valor: 1023 |
-|     | X:498 Y: 517    |   |
+| **Valor: 0**   | ![Joystick](https://github.com/fmonter11/Joystick-en-Arduino/blob/main/Imagenes/JoyTable.png) |**Eje: X   Valor: 1023** |
+|     | **X: 498 Y: 517**    |   |
 
 Después se obtuvo el 
 ## Setup
