@@ -2,9 +2,14 @@
 Por Fernanda Monter y Mauricio de Ariño
 
 ## Tabla de contenidos 
+* [Setup del repositorio](#setup-del-repositorio)
 * [Información general](#información-general)
 * [Desarrollo](#desarrollo)
-* [Setup del repositorio](#setup-del-repositorio)
+## Setup del repositorio
+En el repositorio en GitHub del proyecto pueden encontrarse los archivos requeridos para el proyecto, los cuales incluyen:
+- el archivo Practica_joystick.ino (ódigo en Arduino para el joystick),
+- eL archivo README.md,
+- una carpeta Imagenes que incluye las fotografías que se encuentran en el README
 ## Información general
 El proyecto consiste en obtener gráficamente los valores máximos y mínimos de traslación de un joystick, además de su valor promedio en reposo. Un joystick es un arreglo de 2 potenciómetros que permite conocer la posición de la palanca en un eje X y un eje Y. Para leer estos valores se conectaron los canales analógicos de los potenciómetros del joystick a un Arduino MEGA y se escribió un programa en el software de Arduino que recibe los valores X y Y y los traduce de un intervalo entre 0 y 1023 a un intervalo entre -1 y 1 para desplegarlos gráficamente.
 ## Desarrollo
@@ -21,8 +26,4 @@ Después se realizó una práctica física que consistió en mover la palanca de
 Por último, se tradujeron los valores del joystick a un intervalo de -1 a 1 y se desplegó el movimiento de la palanca de forma gráfica a través de un intervalo de tiempo.
 
 ![Monitor serial](https://github.com/fmonter11/Joystick-en-Arduino/blob/main/Imagenes/Monitor.png)
-## Setup del repositorio
-En el repositorio en GitHub del proyecto pueden encontrarse los archivos requeridos para el proyecto, los cuales incluyen:
-- el archivo Practica_joystick.ino (ódigo en Arduino para el joystick),
-- eL archivo README.md,
-- una carpeta Imagenes que incluye las fotografías que se encuentran en el README
+
