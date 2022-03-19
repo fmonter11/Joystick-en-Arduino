@@ -10,6 +10,10 @@ El proyecto consiste en obtener los valores máximos y mínimos de traslación d
 ## Desarrollo
 Para llevar a cabo la lectura correctamente la conexión se basó en el diagrama siguiente.
 ![Diagrama](https://github.com/fmonter11/Joystick-en-Arduino/blob/main/Imagenes/Diagrama.png)
+|         |   Eje: Y  Valor: 0   |   |
+| :-------------: |:-------------:| :-------------:|
+| Valor: 0   | imagen |Eje: X   Valor: 1023 |
+|     | X:498 Y: 517    |   |
 Después se obtuvo el 
 ## Setup
 ![Monitor serial](https://github.com/fmonter11/Joystick-en-Arduino/blob/main/Imagenes/Monitor.png)
