@@ -22,3 +22,4 @@ Por último, se tradujeron los valores del joystick a un intervalo de -1 a 1 y s
 
 ![Monitor serial](https://github.com/fmonter11/Joystick-en-Arduino/blob/main/Imagenes/Monitor.png)
 ## Setup del repositorio
+En el repositorio en GitHub del proyecto puede encontrarse el archivo de código de Arduino utilizado para el joystick
