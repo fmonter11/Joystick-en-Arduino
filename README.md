@@ -21,7 +21,7 @@ Después se realizó un experimento físico que consistió en mover la palanca d
 |         |   Eje Y:  Mínimo: 0   |   |
 | :-------------: |:-------------:| :-------------:|
 | **Eje X: Mínimo: 0**   | ![Joystick](https://github.com/fmonter11/Joystick-en-Arduino/blob/main/Imagenes/JoyTable.png) |**Máximo: 1023** |
-|     | **Máximo: 1023       |   |
+|     | **Máximo: 1023**       |   |
 |     | ** En reposo: X: 498, Y: 517**    |   |
 
 *Tabla 1. Valores obtenidos con el joystick analógico*
