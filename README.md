@@ -11,7 +11,7 @@ En el repositorio en GitHub del proyecto pueden encontrarse los archivos requeri
 - eL archivo README.md,
 - una carpeta Imagenes que incluye las fotografías que se encuentran en el README
 ## Información general
-El proyecto consiste en obtener gráficamente los valores máximos y mínimos de traslación de un joystick, además de su valor promedio en reposo. Un joystick es un arreglo de 2 potenciómetros que permite conocer la posición de la palanca en un eje X y un eje Y. Para leer estos valores se conectaron los canales analógicos de los potenciómetros del joystick a un Arduino MEGA y se escribió un programa en el software de Arduino que recibe los valores X y Y y los traduce de un intervalo entre 0 y 1023 a un intervalo entre -1 y 1 para desplegarlos gráficamente.
+El proyecto consiste en obtener gráficamente los valores máximos y mínimos de traslación de un joystick para adaptarlo a un control, además de su valor promedio en reposo. Un joystick es un arreglo de 2 potenciómetros que permite conocer la posición de la palanca en un eje X y un eje Y. Para leer estos valores se conectaron los canales analógicos de los potenciómetros del joystick a un Arduino MEGA y se escribió un programa en el software de Arduino que recibe los valores X y Y y los traduce de un intervalo entre 0 y 1023 a un intervalo entre -1 y 1 para desplegarlos gráficamente.
 ## Desarrollo
 Para llevar a cabo la lectura correctamente se escribió un código que toma los valores del X y Y del joystick como entradas y los regresa como una tabla y una gráfica. También se basó la conexión del joystick al Arduino en el diagrama siguiente.
 
