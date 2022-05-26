@@ -39,7 +39,7 @@ Por último, se tradujeron los valores del joystick a un intervalo de -1 a 1 y s
 *Gráfica 1. Captura del Serial Plotter con gráfica sinusoidal*
 
 ## Implementación 
-Un joystick es un componente un tanto común para quien utiliza consolas de videojuegos, ya que en sus controles normalmente se utilizan para controlar el movimiento en un rango de 360 grados. Sin embargo, esta herramienta puede implementarse en sistemas más complejos de control que involucren el desplazamiento en X y Y.
+Un joystick es un componente un tanto común para quien utiliza consolas de videojuegos, ya que estan presentes en los controles y normalmente se utilizan para controlar el movimiento lineal. Sin embargo, esta herramienta puede implementarse en sistemas complejos de control que involucren el desplazamiento en X y Y.
 
 ## Contacto
 - Fernanda Monter | fmonter1@itam.mx
